@@ -1,3 +1,6 @@
+<img width="1942" height="809" alt="660248a4-80e8-456a-b577-9e4b940548ab" src="https://github.com/user-attachments/assets/d627af90-ee28-4680-baff-311a7c13ab06" />
+
+
 **SSO** significa *Single Sign-On*, ou **login único**. A pessoa entra uma vez por meio de um provedor de identidade e pode acessar vários sistemas que confiam nesse provedor, sem digitar a senha em cada um.
 
 Por exemplo: a empresa usa uma conta corporativa para acessar o e-mail, o Grafana e sistemas internos.
