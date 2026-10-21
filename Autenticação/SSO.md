@@ -27,6 +27,9 @@ sequenceDiagram
     Sistema-->>Pessoa: Cria sessão própria e libera o acesso
 ```
 
+<img width="1672" height="941" alt="f61f9557-d658-4e86-8edd-e481c78c9c7b" src="https://github.com/user-attachments/assets/496f2c09-229f-4cd2-8f93-e47a0611414a" />
+
+
 ### SSO não significa acesso irrestrito
 
 O provedor confirma **quem você é**. Cada sistema ainda decide **o que você pode fazer**. Por exemplo, o SSO pode permitir a entrada no Grafana, enquanto as permissões do Grafana determinam quais painéis você pode visualizar.
