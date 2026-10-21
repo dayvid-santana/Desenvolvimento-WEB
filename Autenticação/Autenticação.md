@@ -1,3 +1,6 @@
+<img width="1672" height="941" alt="a760e63b-81cc-4f10-8e3b-450f51392bc9" src="https://github.com/user-attachments/assets/02e25117-d614-4b55-9588-0914676dab85" />
+
+
 Em projetos web, uma **sessão** permite que o servidor reconheça o mesmo usuário em várias requisições. Isso é necessário porque o HTTP, por padrão, trata cada requisição como independente: o servidor não se lembra automaticamente de quem fez a requisição anterior.
 
 ### Fluxo típico
